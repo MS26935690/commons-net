@@ -51,6 +51,7 @@ import org.apache.commons.net.util.NetConstants;
  * @see RCommandClient
  * @see RLoginClient
  */
+/*Second comment */
 public class RExecClient extends SocketClient {
 
     /**
